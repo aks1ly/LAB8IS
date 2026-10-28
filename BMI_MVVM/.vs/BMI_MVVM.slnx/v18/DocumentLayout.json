@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A32A0647-58D4-C84A-CB26-90A9FA98816C}|BMI_MVVM.csproj|c:\\users\\alexa\\desktop\\\u043F\u0440\u043E\u0454\u043A\u0442. \u0456\u0441\\lab7is\\bmi_mvvm\\bmiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32A0647-58D4-C84A-CB26-90A9FA98816C}|BMI_MVVM.csproj|solutionrelative:bmiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32A0647-58D4-C84A-CB26-90A9FA98816C}|BMI_MVVM.csproj|c:\\users\\alexa\\desktop\\\u043F\u0440\u043E\u0454\u043A\u0442. \u0456\u0441\\lab7is\\bmi_mvvm\\bmimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32A0647-58D4-C84A-CB26-90A9FA98816C}|BMI_MVVM.csproj|solutionrelative:bmimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32A0647-58D4-C84A-CB26-90A9FA98816C}|BMI_MVVM.csproj|c:\\users\\alexa\\desktop\\\u043F\u0440\u043E\u0454\u043A\u0442. \u0456\u0441\\lab7is\\bmi_mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32A0647-58D4-C84A-CB26-90A9FA98816C}|BMI_MVVM.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32A0647-58D4-C84A-CB26-90A9FA98816C}|BMI_MVVM.csproj|c:\\users\\alexa\\desktop\\\u043F\u0440\u043E\u0454\u043A\u0442. \u0456\u0441\\lab7is\\bmi_mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A32A0647-58D4-C84A-CB26-90A9FA98816C}|BMI_MVVM.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BmiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVVM\\BmiViewModel.cs",
+              "RelativeDocumentMoniker": "BmiViewModel.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVVM\\BmiViewModel.cs",
+              "RelativeToolTip": "BmiViewModel.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:36:21.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BmiModel.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVVM\\BmiModel.cs",
+              "RelativeDocumentMoniker": "BmiModel.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVVM\\BmiModel.cs",
+              "RelativeToolTip": "BmiModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:36:09.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVVM\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:34:23.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVVM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVVM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:34:20.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F1BB8D-FBCB-E24B-D447-2CC55AA99830}|BMI_MVP.csproj|c:\\users\\alexa\\desktop\\\u043F\u0440\u043E\u0454\u043A\u0442. \u0456\u0441\\lab7is\\bmi_mvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F1BB8D-FBCB-E24B-D447-2CC55AA99830}|BMI_MVP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6251D92-A882-428C-8496-086E25E1F24D}|BMI_MVP.csproj|C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6251D92-A882-428C-8496-086E25E1F24D}|BMI_MVP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F1BB8D-FBCB-E24B-D447-2CC55AA99830}|BMI_MVP.csproj|c:\\users\\alexa\\desktop\\\u043F\u0440\u043E\u0454\u043A\u0442. \u0456\u0441\\lab7is\\bmi_mvp\\bmipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F1BB8D-FBCB-E24B-D447-2CC55AA99830}|BMI_MVP.csproj|solutionrelative:bmipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F1BB8D-FBCB-E24B-D447-2CC55AA99830}|BMI_MVP.csproj|c:\\users\\alexa\\desktop\\\u043F\u0440\u043E\u0454\u043A\u0442. \u0456\u0441\\lab7is\\bmi_mvp\\ibmiview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F1BB8D-FBCB-E24B-D447-2CC55AA99830}|BMI_MVP.csproj|solutionrelative:ibmiview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F1BB8D-FBCB-E24B-D447-2CC55AA99830}|BMI_MVP.csproj|c:\\users\\alexa\\desktop\\\u043F\u0440\u043E\u0454\u043A\u0442. \u0456\u0441\\lab7is\\bmi_mvp\\bmimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F1BB8D-FBCB-E24B-D447-2CC55AA99830}|BMI_MVP.csproj|solutionrelative:bmimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F1BB8D-FBCB-E24B-D447-2CC55AA99830}|BMI_MVP.csproj|c:\\users\\alexa\\desktop\\\u043F\u0440\u043E\u0454\u043A\u0442. \u0456\u0441\\lab7is\\bmi_mvp\\ibmimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F1BB8D-FBCB-E24B-D447-2CC55AA99830}|BMI_MVP.csproj|solutionrelative:ibmimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:30:05.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BmiPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\BmiPresenter.cs",
+              "RelativeDocumentMoniker": "BmiPresenter.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\BmiPresenter.cs",
+              "RelativeToolTip": "BmiPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:27:33.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBmiView.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\IBmiView.cs",
+              "RelativeDocumentMoniker": "IBmiView.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\IBmiView.cs",
+              "RelativeToolTip": "IBmiView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:27:14.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BmiModel.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\BmiModel.cs",
+              "RelativeDocumentMoniker": "BmiModel.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\BmiModel.cs",
+              "RelativeToolTip": "BmiModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:26:57.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBmiModel.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\IBmiModel.cs",
+              "RelativeDocumentMoniker": "IBmiModel.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\IBmiModel.cs",
+              "RelativeToolTip": "IBmiModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:26:40.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\\u041F\u0440\u043E\u0454\u043A\u0442. \u0406\u0421\\LAB7IS\\BMI_MVP\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:22:48.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
